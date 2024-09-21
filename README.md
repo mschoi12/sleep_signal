@@ -1,2 +1,2 @@
 # sleep_signal
-signal processing techniques from sleep test data
+signal processing techniques using sleep test data
